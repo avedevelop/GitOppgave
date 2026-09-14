@@ -9,3 +9,5 @@ også lager vi denne historia om git
 Med Git kan du kontrollere versjoner
 
 Med å bruke git commit og git bush
+
+ikke bush
