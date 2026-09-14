@@ -15,3 +15,5 @@ ikke bush
 Så hva må jeg bruke?
 
 da må du bruke GIT PUSH
+
+ja det er rikktig
