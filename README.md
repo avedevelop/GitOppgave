@@ -13,3 +13,5 @@ Med å bruke git commit og git bush
 ikke bush
 
 Så hva må jeg bruke?
+
+da må du bruke GIT PUSH
