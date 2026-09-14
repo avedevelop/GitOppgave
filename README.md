@@ -1,3 +1,3 @@
 # GitOppgave
 Dette er Git oppgave repo
-idk
+hei jeg hetter kyrre
