@@ -24,3 +24,4 @@ HIT HUB er et moderne sted for aktivitet og trening
 
 På GitHub kan vi også samarbeide med andre og jobbe på samme prosjekt.
 
+HIT HUB har et hyggelig og trygt miljø
