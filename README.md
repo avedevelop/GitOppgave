@@ -19,3 +19,5 @@ da må du bruke GIT PUSH
 ja det er rikktig
 
 Neste steg at vi må lære git mer
+
+HIT HUB er et moderne sted for aktivitet og trening
